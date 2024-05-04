@@ -11,7 +11,7 @@
  <project path="kernel/lenovo/msm8953" name="android_kernel_lenovo_msm8953" remote="DeclanShao" revision="11.11" />
 
  <!--Vendor -->
- <project path="vendor/lenovo/TB8703N" name="android_vendor_lenovo_TB8703N" remote="DeclanShao" revision="tb8703x1" />
+ <project path="vendor/lenovo/TB8703N" name="android_vendor_lenovo_TB8703N" remote="DeclanShao" revision="tb8703x" />
 
  <!--Other HALs-->
    
