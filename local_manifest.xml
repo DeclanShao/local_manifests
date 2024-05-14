@@ -5,7 +5,7 @@
             clone-depth="1" />
     <!--Credit to zhengz/rik0612c for Sources and keeping our device alive -->                            
  <!--Tree -->
- <project path="device/lenovo/TB8703N" name="android_device_lenovo_TB8703N" remote="DeclanShao" revision="testdouble-click" />
+ <project path="device/lenovo/TB8703N" name="android_device_lenovo_TB8703N" remote="DeclanShao" revision="lineage-20.0" />
 
  <!--Kernel -->
  <project path="kernel/lenovo/msm8953" name="android_kernel_lenovo_msm8953" remote="DeclanShao" revision="11.11" />
