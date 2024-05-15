@@ -20,7 +20,7 @@
  <!-- Replacements -->
 
  <!-- Common -->
- <project path="device/lenovo/msm8953-common" name="android_device_lenovo_msm8953-common" remote="DeclanShao" revision="power" />
+ <project path="device/lenovo/msm8953-common" name="android_device_lenovo_msm8953-common" remote="DeclanShao" revision="test" />
  <project path="vendor/lenovo/msm8953-common" name="android_vendor_lenovo_msm8953-common" remote="DeclanShao" revision="lineage-20.0" />
 
 </manifest>
