@@ -14,7 +14,7 @@
  <project path="vendor/smartisan/osborn" name="android_vendor_smartisan_osborn" remote="DeclanShao" revision="4.19" />
 
  <!--Other HALs-->
-   
+ <project path="hardware/smartisan" name="android_hardware_smartisan" remote="DeclanShao" revision="lineage-20" />
  <!-- Dependencies -->
 
  <!-- Replacements -->
