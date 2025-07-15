@@ -11,7 +11,7 @@
  <project path="kernel/smartisan/sdm660" name="android_kernel_smartisan_sdm660" remote="DeclanShao" revision="4.19" />
 
  <!--Vendor -->
- <project path="vendor/smartisan/osborn" name="android_vendor_smartisan_osborn" remote="DeclanShao" revision="lineage-20" />
+ <project path="vendor/smartisan/osborn" name="android_vendor_smartisan_osborn" remote="DeclanShao" revision="lineage-20.0" />
 
  <!--Other HALs-->
  <project path="hardware/smartisan" name="android_hardware_smartisan" remote="DeclanShao" revision="lineage-20" />
